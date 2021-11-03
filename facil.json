@@ -1,0 +1,58 @@
+[
+    {
+        "categoria": "Nivel Fácil",
+        "pregunta": "¿Cuál es la serie de Netflix que tiene como personajes principales a: Samuel, Carla, Marina, Lu, Guzman, Omar, Nadia y Ander?",
+        "respuesta": "Elite",
+        "incorrecta1": "Control Z",
+        "incorrecta2": "The Umbrella Academy",
+        "incorrecta3": "Dark",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Fácil",
+        "pregunta": "¿Cuál es la serie de Netflix que tiene como personajes principales a: Clay Jensen y Hannah?",
+        "respuesta": "13 Reasons why",
+        "incorrecta1": "Squid Game",
+        "incorrecta2": "I'm not okay with this",
+        "incorrecta3": "Game over man",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Fácil",
+        "pregunta": "¿Cuál es la serie de Netflix que tiene como personajes principales a: Otis, Eric, Maeve, Adam, Jackson y Aimee?",
+        "respuesta": "Sex Education",
+        "incorrecta1": "Dulce hogar",
+        "incorrecta2": "Fuller House",
+        "incorrecta3": "Friends",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Fácil",
+        "pregunta": "¿Cuál es la serie de Netflix que tiene como personajes principales a: Patty Bladell?",
+        "respuesta": "Insatiable",
+        "incorrecta1": "You",
+        "incorrecta2": "The OA",
+        "incorrecta3": "Teen wolf",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Fácil",
+        "pregunta": "¿Cuál es la serie de Netflix que tiene como personajes principales a: Alyssa y James?",
+        "respuesta": "The end of the fucking world",
+        "incorrecta1": "Another life",
+        "incorrecta2": "Affection",
+        "incorrecta3": "Locke & Key",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    }
+
+
+]

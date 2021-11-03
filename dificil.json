@@ -1,0 +1,58 @@
+[
+    {
+        "categoria": "Nivel Difícil",
+        "pregunta": "¿Cuál es la serie más vista de Netflix en el año 2021?",
+        "respuesta": "Bridgerton",
+        "incorrecta1": "La casa de papel",
+        "incorrecta2": "Stranger Things",
+        "incorrecta3": "El juego del calamar",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Difícil",
+        "pregunta": "¿Qué serie es protagonizada por el actor Penn Badgley?",
+        "respuesta": "You",
+        "incorrecta1": "The Rain",
+        "incorrecta2": "Dark",
+        "incorrecta3": "13 Reasons Why",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Difícil",
+        "pregunta": "La serie que trata sobre el reinado de la reina Isabel II es...",
+        "respuesta": "The Crown",
+        "incorrecta1": "Bridgerton",
+        "incorrecta2": "Atypical",
+        "incorrecta3": "¨Peaky Blinders",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Difícil",
+        "pregunta": "En'Selena: la serie', ¿quién interpreta a la cantante y protagonista Selena?",
+        "respuesta": "Christina Santos",
+        "incorrecta1": "Salma Hayek",
+        "incorrecta2": "Jennifer Lopez",
+        "incorrecta3": "Anahí Puente",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Nivel Difícil",
+        "pregunta": "'Lucifer' es protagonizada por...?",
+        "respuesta": "Tom Ellis",
+        "incorrecta1": "Chris Evans",
+        "incorrecta2": "Charlie Cox",
+        "incorrecta3": "Ralph Macchio",
+        "imagen": "https://i.ibb.co/jJPRtZm/10-Netflix-shows-to-learn-French-with-568x464.jpg",
+        "objectFit": "cover"
+    }
+
+
+]

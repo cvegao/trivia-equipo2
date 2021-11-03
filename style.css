@@ -1,0 +1,319 @@
+@font-face {
+
+    font-family: Mifuente;
+    src: url(Fonts/Righteous-Regular.ttf);
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.781);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li {
+    border-right: 3px solid rgba(255, 255, 255, 0.87);
+}
+
+
+li a:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(228, 0, 0);
+}
+
+li a:active {
+
+    background-color: rgba(255, 0, 0, 0.87);
+
+}
+
+
+.barra {
+
+    font-family: Mifuente;
+
+}
+
+
+/*Fondo*/
+
+
+* {
+
+    transition: all 0.3s;
+
+}
+
+body {
+
+    background: url(fondo.jpg);
+    background-size: 100%;
+    
+    
+    
+
+    /*termina style de Fondo*/
+
+
+}
+
+/*Fondo titulo*/
+
+.box {
+
+    background-color: rgba(0, 0, 0, 0.822);
+    background-size: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+/*Titulo*/
+
+h1 {
+
+    color: rgb(194, 0, 0);
+    font-family: Mifuente;
+    font-size: 60px;
+
+
+}
+
+
+/*Caja roja*/
+
+.box2 {
+
+    color: white;
+    font-family: Mifuente;
+    font-size: 20px;
+    background-color: rgba(192, 0, 0, 0.89);
+    background-size: 40%;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding: 30px;
+    animation-name: mianimacion;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+
+
+}
+
+
+
+@keyframes mianimacion {
+    0% {
+        background: rgba(192, 0, 0, 0.89);
+    }
+
+    10% {
+        background: rgba(255, 17, 0, 0.829);
+    }
+
+    20% {
+        background: rgba(192, 0, 0, 0.89);
+    }
+
+    30% {
+        background: rgba(255, 0, 0, 0.829);
+    }
+
+    40% {
+        background: rgba(192, 0, 0, 0.89);
+    }
+
+    50% {
+        background: rgba(146, 0, 0, 0.829);
+    }
+
+    60% {
+        background: rgba(192, 0, 0, 0.89);
+    }
+
+    70% {
+        background: rgba(255, 17, 0, 0.829);
+    }
+
+    80% {
+        background: rgba(192, 0, 0, 0.89);
+    }
+
+    90% {
+        background: rgba(146, 0, 0, 0.829);
+    }
+
+    100% {
+        background: rgba(192, 0, 0, 0.89);
+    }
+
+}
+
+
+/*Texto de bienvenida*/
+
+.bienvenido {
+
+    color: white;
+
+
+}
+
+/*Botones*/
+
+.boton-personalizado {
+    font-family: Mifuente;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 27px;
+    color: #b60000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #000000e8;
+    border-color: rgba(170, 0, 0, 0.822);
+    border-width: 7px;
+    border-style: double;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 30px;
+}
+
+
+.boton-personalizado:hover {
+
+    color: honeydew;
+    background-color: rgba(146, 0, 0, 0.822);
+
+
+
+}
+
+
+.reglas {
+
+
+    text-align: left;
+
+
+
+}
+
+#info {
+
+
+    text-align: justify;
+}
+
+/*CONTENEDORES DE LAS PREGUNTAS*/
+
+.contenedor {
+
+    color: rgb(255, 255, 255);
+    font-family: Mifuente;
+    width: 98vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+    
+  }
+
+
+
+  .encabezado {
+    
+    font-size: 20px;
+    position: relative;
+    background: rgba(223, 0, 0, 0.863);
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
+    border-radius: 9px;
+  }
+
+
+
+.categoria {
+
+    padding: 8px;
+    font-size: 20px;
+    opacity: 0.5;
+    text-align: center;
+
+
+}
+
+.pregunta {
+
+    padding: 20px;
+    font-size: 19px;
+
+}
+
+.imagen {
+
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+    border-radius: 9px;
+
+}
+
+.btn {
+
+    color: black;
+    background: rgba(255, 255, 255, 0.904);
+    width: 43%;
+    padding: 16px;
+    margin: 9px;
+    border-radius: 9px;
+
+}
+
+.btn:hover {
+
+    background: rgba(255, 0, 0, 0.938);
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.numero {
+    position: absolute;
+    opacity: 0.3;
+    top: 10px;
+    right: 10px;
+}
+
+.puntaje {
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+}
