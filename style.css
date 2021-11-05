@@ -129,7 +129,7 @@ h1 {
     }
 
     10% {
-        background: rgba(255, 17, 0, 0.829);
+        background: rgba(255, 53, 39, 0.829);
     }
 
     20% {
@@ -137,7 +137,7 @@ h1 {
     }
 
     30% {
-        background: rgba(255, 0, 0, 0.829);
+        background: rgba(255, 15, 15, 0.829);
     }
 
     40% {
@@ -145,7 +145,7 @@ h1 {
     }
 
     50% {
-        background: rgba(146, 0, 0, 0.829);
+        background: rgba(185, 0, 0, 0.829);
     }
 
     60% {
@@ -153,7 +153,7 @@ h1 {
     }
 
     70% {
-        background: rgba(255, 17, 0, 0.829);
+        background: rgba(255, 47, 32, 0.829);
     }
 
     80% {
@@ -307,13 +307,13 @@ h1 {
 
 .numero {
     position: absolute;
-    opacity: 0.3;
+    opacity: 0.0;
     top: 10px;
     right: 10px;
 }
 
 .puntaje {
-    padding: 10px;
+    padding: 6px;
     color: white;
-    font-size: 25px;
+    font-size: 28px;
 }

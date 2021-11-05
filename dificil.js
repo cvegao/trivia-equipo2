@@ -4,6 +4,7 @@ window.onload = function() {
     escogerPreguntaAleatoria()
   }
   
+
   let pregunta
   let posibles_respuestas
   btn_correspondiente = [
@@ -106,6 +107,7 @@ window.onload = function() {
   function reiniciar() {
     for (const btn of btn_correspondiente) {
       btn.style.background = "white"
+    
     }
     escogerPreguntaAleatoria()
   }
@@ -118,8 +120,6 @@ window.onload = function() {
     return select_id(id).style
   }
   
-
-  /*
   function readText(ruta_local) {
     var texto = null;
     var xmlhttp = new XMLHttpRequest();
@@ -129,7 +129,8 @@ window.onload = function() {
       texto = xmlhttp.responseText;
     }
     return texto;
-  } */
-
+  }
 
  
+  
+  
